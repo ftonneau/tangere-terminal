@@ -1,4 +1,66 @@
 --------------------------------------------------------------------------------
+Format: ghostty
+--------------------------------------------------------------------------------
+Light palette
+---------------
+
+palette = 0=#ffffff
+palette = 1=#9c341f
+palette = 2=#004c73
+palette = 3=#805619
+palette = 4=#223355
+palette = 5=#663d52
+palette = 6=#4b5363
+palette = 7=#898e99
+palette = 8=#686868
+palette = 9=#9c341f
+palette = 10=#004c73
+palette = 11=#40290a
+palette = 12=#223355
+palette = 13=#663d52
+palette = 14=#002a40
+palette = 15=#d1d1d1
+
+background = #fdfdfa
+foreground = #000000
+
+cursor-color = #000000
+cursor-text = #fdfdfa
+
+selection-background = #686868
+selection-foreground = #fdfdfa
+
+---------------
+Dark palette
+---------------
+
+palette = 0=#000000
+palette = 1=#f2826d
+palette = 2=#6dafb5
+palette = 3=#e0ba70
+palette = 4=#8fb4cd
+palette = 5=#bb98d9
+palette = 6=#b2babf
+palette = 7=#e6e4d3
+palette = 8=#b3b3b3
+palette = 9=#f2826d
+palette = 10=#6dafb5
+palette = 11=#ffdd99
+palette = 12=#8fb4cd
+palette = 13=#bb98d9
+palette = 14=#a9c9cc
+palette = 15=#2f4656
+
+background = #1a2938
+foreground = #fdfdd9
+
+cursor-color = #fdfdd9
+cursor-text = #1a2938
+
+selection-background = #b3b3b3
+selection-foreground = #1a2938
+
+--------------------------------------------------------------------------------
 Format: alacritty
 --------------------------------------------------------------------------------
 Light palette

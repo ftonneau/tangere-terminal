@@ -136,6 +136,8 @@ Static installation requires these RGB values to be inserted manually in your
 The included [palettes.txt](./palettes.txt) file may help you in this respect. This
 is a plain-text file with formatted RGB values for:
 
+* ghostty
+
 * alacritty
 
 * kitty
