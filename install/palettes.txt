@@ -24,9 +24,6 @@ palette = 15=#d1d1d1
 background = #fdfdfa
 foreground = #000000
 
-cursor-color = #000000
-cursor-text = #fdfdfa
-
 selection-background = #686868
 selection-foreground = #fdfdfa
 
@@ -53,9 +50,6 @@ palette = 15=#2f4656
 
 background = #1a2938
 foreground = #fdfdd9
-
-cursor-color = #fdfdd9
-cursor-text = #1a2938
 
 selection-background = #b3b3b3
 selection-foreground = #1a2938
